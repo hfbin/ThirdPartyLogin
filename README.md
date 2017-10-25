@@ -22,5 +22,8 @@
 >>>>平衡二叉树  
 >>>>>满二叉树 
 
+![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")  
+
+
 :octocat::octocat::octocat::octocat::octocat:
 :kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes:
