@@ -22,13 +22,17 @@
 >>>>平衡二叉树  
 >>>>>满二叉树 
 
+
+图片使用语法   ！[]（）
+
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")  
 
 
 
-![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)  
+![](https://github.com/hfbin/ThirdPartyLogin/blob/master/src/main/webapp/image/1478770583835.jpg)  
 
 
 
+表情网站：https://www.webpagefx.com/tools/emoji-cheat-sheet/
 :octocat::octocat::octocat::octocat::octocat:
 :kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes:
