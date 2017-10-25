@@ -31,7 +31,7 @@
 
 [![baidu]](http://baidu.com)[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"  
 
-![为啥不行](https://github.com/hfbin/ThirdPartyLogin/blob/master/raw/image/space-2018735.jpg)  
+![GitHub图片为啥不行](https://github.com/hfbin/ThirdPartyLogin/blob/master/raw/image/space-2018735.jpg)  
 
 
 
